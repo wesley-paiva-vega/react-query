@@ -8,6 +8,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   const foo = '';
+  const bla = '';
 
   return (
     <div className="App">
