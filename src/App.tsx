@@ -7,6 +7,8 @@ import logo from './logo.svg';
 function App() {
   const [count, setCount] = useState(0);
 
+  const foo = '';
+
   return (
     <div className="App">
       <header className="App-header">
